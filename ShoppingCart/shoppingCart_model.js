@@ -13,7 +13,7 @@ mongoose.model("CartDetails", {
         type: Number,
         require: true
     },
-    price: {
+    price: {  
         type: Number,
         require: true
     },
