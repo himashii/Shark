@@ -88,8 +88,3 @@ jobs:
 
         echo "::set-output name=image::$ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG"
 
-
-# Access Key ID:
-# AKIA5AHEMCROBM5DKY7I
-# Secret Access Key:
-# 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
