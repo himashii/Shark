@@ -9,7 +9,7 @@ mongoose.model("CartDetails", {
         type: String,
         require: true
     },
-    qty: {
+    qty: { 
         type: Number,
         require: true
     },
